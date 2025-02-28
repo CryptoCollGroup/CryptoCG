@@ -1,1 +1,1 @@
-# Welcome to the Crypto Collective Group
+![TradingDoge](/CryptoCG/assets/DOGETRD_Full_for_Git.png)
