@@ -1,1 +1,1 @@
-![TradingDoge](/CryptoCG/docs/assets/images/DOGETRD_Full_for_Git.png)
+![TradingDoge](/docs/assets/DOGETRD_Full_for_Git.png)
